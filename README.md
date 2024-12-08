@@ -25,8 +25,11 @@ El proyecto cumple con los siguientes requisitos:
    - Estilo CSS general aplicado a todas las páginas.
    - Estructura organizada en carpetas: styles para CSS y scripts para JavaScript.
 
+
 ## Estructura del Proyecto
 
+```
+function test(){
 Actividad_Web_Interactiva/
 ├── index.html
 ├── inicio.html
@@ -39,7 +42,7 @@ Actividad_Web_Interactiva/
     ├── funcionalidades.js
     ├── registro.js
     └── tabla.js
-
+```
 
 ## Instrucciones para Ejecutar
 1. Clona este repositorio en tu computadora local:
